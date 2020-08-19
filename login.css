@@ -1,0 +1,24 @@
+#login-box {
+    border-style: outset;
+    border-color: lightskyblue;
+    padding: 0px 25px 0px 20px;
+}
+#column1 {
+    border-style: outset;
+    border-color: lightskyblue;
+    padding: 0px 25px 0px 20px;
+}
+#column2{
+    border-style: outset;
+    border-color: lightskyblue;
+    padding: 0px 25px 0px 20px;
+}
+
+h2 {
+    background-color: lightskyblue;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
